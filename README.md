@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Rohan</h1>
 <h3 align="center">Full-stack web developer building scalable applications with React and Node.js.</h3>
 
--🎓 I'm a passionate software developer and tech enthusiast currently in my 3rd year of college.  
+-🎓 I'm a passionate software developer and tech enthusiast currently in my final year of college.  
 
 -🚀 I’m actively building full-stack web apps using MERN, Flutter, and learning Machine Learning & AI.  
 
--📚 I’ve completed 150+ LeetCode problems, built real-world projects, and trained in Java, JS & JDBC.  
+-📚 I’ve completed 500+ LeetCode problems, built real-world projects, and trained in Java, JS.  
 
 - 🌱 I’m currently learning **Machine learning**
 
